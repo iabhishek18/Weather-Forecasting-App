@@ -1,4 +1,4 @@
-# Weather-Forecaster
+# Weather-Forecasting App
 
 • Developed a weather forecasting application using advanced Java,
 ensuring accurate and real-time weather updates.
